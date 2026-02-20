@@ -23,12 +23,14 @@ pip install -r requirements.txt
 3. Running OLWDF model
 
 ```python
+cd source
 python OLWDF_abruptdraft.py
 ```
 
 or 
 
 ```python
+cd source
 python OLWDF_realdraft.py
 ```
 
