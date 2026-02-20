@@ -32,6 +32,4 @@ or
 python OLWDF_realdraft.py
 ```
 
-## Q&A
-If you have any questions about the program or the paper, please feel free to contact me directly at wyl72229992@email.swu.edu.cn.
 
